@@ -1,0 +1,28 @@
+baseURL: https://tictactoe.nickkoepr.nl/
+languageCode: en-us
+title: TicTacToe
+theme: ["PaperMod"]
+
+params:
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  homeInfoParams:
+    Title: TicTacToe
+    Content: > 
+       👋 Welcome!
+
+        **TicTacToe** is a **Discord bot** that lets Discord users play tic tac toe together.
+      
+        You can find more information about the bot **[here](https://nickkoepr.nl/)**! 
+
+  socialIcons:
+    - name: "github"
+      title: View the bot source code on GitHub
+      url: "https://github.com/nickkoepr/tictactoe"
+    - name: "kofi"
+      title: Support this project via KoFi!
+      url: "https://ko-fi.com/nickkoepr"
+    - name: "other"
+      title: "Visit NickKoepr website"
+      url: "https://nickkoepr.nl/"
