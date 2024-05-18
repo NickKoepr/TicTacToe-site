@@ -9,7 +9,7 @@ draft = false
 
 ***
 
-When using the TicTacToe Discord bot on Discord, you agree to the Privacy Policy stated on this page and our Terms of Service that you can find [here](https://docs.google.com/document/d/e/2PACX-1vQQ0nMg0msUX2CCxmj47ZDYRU4SMfCf0R7hoF61N_3vfKAmJyUw7uQUe90Jfz8e613xogqsvrUKYp91/pub). The terms _“we”_ and _“our”_ represent NickKoepr, and the terms _“user”_ and _“you”_ represent the Discord user who makes use of the TicTacToe Discord bot, _“data”_ represents the data that the TicTacToe Discord bot collects and _“server”_ represents the Discord server where you can find the TicTacToe Discord bot. We are not responsible for any spelling or grammar mistakes in this document.
+When using the TicTacToe Discord bot on Discord, you agree to the Privacy Policy stated on this page and our Terms of Service that you can find [here](/posts/terms-of-service/). The terms _“we”_ and _“our”_ represent NickKoepr, and the terms _“user”_ and _“you”_ represent the Discord user who makes use of the TicTacToe Discord bot, _“data”_ represents the data that the TicTacToe Discord bot collects and _“server”_ represents the Discord server where you can find the TicTacToe Discord bot. We are not responsible for any spelling or grammar mistakes in this document.
 
 1. **Data that we collect**
    - When you use our bot, we may save some data to provide a good service.
