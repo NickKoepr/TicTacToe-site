@@ -12,17 +12,23 @@ params:
     Content: > 
        👋 Welcome!
 
-        **TicTacToe** is a **Discord bot** that lets Discord users play TicTacToe together.
+        **TicTacToe** is a **Discord app** that lets Discord users play TicTacToe together.
       
-        You can find more information about the bot **[here](https://discord.com/application-directory/914110118998732811)**! 
+        You can invite the TicTacToe app **[here](https://discord.com/application-directory/914110118998732811)**! 
 
   socialIcons:
-    - name: "github"
-      title: View the bot source code on GitHub
-      url: "https://github.com/nickkoepr/tictactoe"
     - name: "kofi"
       title: Support this project via KoFi!
       url: "https://ko-fi.com/nickkoepr"
+    - name: "discord"
+      title: Join the Discord server of the TicTacToe app!
+      url: "https://discord.gg/UwFc2ykquT"
+    - name: "github"
+      title: View the bot source code on GitHub
+      url: "https://github.com/nickkoepr/tictactoe"
     - name: "other"
-      title: "Visit NickKoepr website"
+      title: Visit NickKoepr website
       url: "https://nickkoepr.nl/"
+    - name: "status"
+      title: Check here the current status of the TicTacToe app
+      url: "https://tictactoe.instatus.com/"
